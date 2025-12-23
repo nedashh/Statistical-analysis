@@ -67,11 +67,6 @@ cd Statistical-analysis
 
 # WinForm Statistical Analysis and Hypothesis Testing
 
-[![C++](https://img.shields.io/badge/C++-CLI/Windows-blue.svg)](https://docs.microsoft.com/en-us/cpp/dotnet/dotnet-programming-with-cpp-cli-visual-cpp)
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()
-![GitHub Repo stars](https://img.shields.io/github/stars/nedashh/Statistical-analysis)
-![GitHub forks](https://img.shields.io/github/forks/nedashh/Statistical-analysis)
-
 **English** 
 
 A Windows desktop application (C++/CLI) designed for statistical parameter estimation and hypothesis testing. Developed as part of the **“Algorithms and Data Processing”** course.
