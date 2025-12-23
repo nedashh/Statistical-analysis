@@ -117,8 +117,8 @@ cd Statistical-analysis
 Install Boost C++ Libraries
 ```
 
-1.Install Visual Studio with C++/CLI support
-2. Open Methods.sln
+1. Install Visual Studio with C++/CLI support
+2. Open `Methods.sln` 
 3. Configure Boost include and library paths
 4. Select the target platform (x86 / x64)
 5. Build the project (Release configuration recommended)
