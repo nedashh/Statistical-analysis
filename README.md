@@ -6,7 +6,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/nedashh/Statistical-analysis)
 ![GitHub forks](https://img.shields.io/github/forks/nedashh/Statistical-analysis)
 
-**Русский** | [English](README.md)
+**Русский**
 
 Десктопное приложение для Windows (C++/CLI), предназначенное для статистического оценивания и проверки гипотез. Разработано в рамках курса **«Алгоритмы и обработка данных»**.
 
@@ -72,7 +72,7 @@ cd Statistical-analysis
 ![GitHub Repo stars](https://img.shields.io/github/stars/nedashh/Statistical-analysis)
 ![GitHub forks](https://img.shields.io/github/forks/nedashh/Statistical-analysis)
 
-**English** | [Русский](README_RU.md)
+**English** 
 
 A Windows desktop application (C++/CLI) designed for statistical parameter estimation and hypothesis testing. Developed as part of the **“Algorithms and Data Processing”** course.
 
