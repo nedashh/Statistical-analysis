@@ -3,8 +3,6 @@
 
 [![C++](https://img.shields.io/badge/C++-CLI/Windows-blue.svg)](https://docs.microsoft.com/ru-ru/cpp/dotnet/dotnet-programming-with-cpp-cli-visual-cpp)
 [![Статус](https://img.shields.io/badge/Статус-Завершено-brightgreen.svg)]()
-![GitHub Repo stars](https://img.shields.io/github/stars/nedashh/Statistical-analysis)
-![GitHub forks](https://img.shields.io/github/forks/nedashh/Statistical-analysis)
 
 **Русский**
 
